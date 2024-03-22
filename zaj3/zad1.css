@@ -1,0 +1,6 @@
+.b{
+    background-color: rgb(0, 136, 255);
+}
+.b:first-of-type{
+    background-color: white;
+}
